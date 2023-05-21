@@ -53,8 +53,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Murali Ramu"
+  description: This is a small attempt to introduce people to me
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -102,8 +102,8 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandName: "MIRUTECH" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     menus:
@@ -119,9 +119,9 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Murali Ramu."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    subtitle: "I enjoy learning about new topics and exploring new locations. I also like writing a few verses in Kannada."
+    content: "I created this website to share my insights and experiences related to the above. Contact me at any time to discuss anything and everything in this world. Even if I don't know much about the subject, I'll still try to research it and contribute."
+    image: /images/PXL_20220808_070627452.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -133,37 +133,41 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
+        - icon: fab fa-linkedin-in
+          url: https://www.linkedin.com/in/murali-ramu-b272a1167/
         - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://twitter.com/murali_ramu_
+        - icon: fab fa-github
+          url: "https://github.com/mirutech2"
+        - icon: fab fa-instagram
+          url: "https://www.instagram.com/murali_ramu_/"
+      #customIcons:
+      #  - icon:
+      #    url:
 
   # About
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/20211229_164748.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I work as a senior applications engineer at [Infineon Technologies](https://www.infineon.com/).  I have a background in Electronics, Communication and VLSI, and I have a strong interest in building applications and VLSI designs.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently working on Infineon's [Wi-Fi Products](https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-wi-fi-plus-bluetooth-combos/) and specialise in supporting customers with their hardware, regulatory, and firmware issues. I do occasionally support customers on embedded systems too.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few technologies I've been working with recently as part of my job:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Wi-Fi regulatory standards and compliance until Wi-Fi 6/6E"
+        - "Schematic Reviews"
+        - "Makefiles"
+        - "RTOS"
+        - "Linux basics and device drivers."
+        - "Programming with C and Python"
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
