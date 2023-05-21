@@ -1,4 +1,4 @@
-baseURL: "https://mirutech.dev"
+baseURL: "https://mirutech.dev/"
 languageCode: "en-us"
 title: "MiruTech"
 theme: hugo-profile
