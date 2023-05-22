@@ -128,9 +128,9 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
-      download: true
-      newPage: false
+      url: "https://resume.mirutech.dev/"
+      download: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin-in
@@ -236,42 +236,69 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Technology in Integrated Circuits and Systems"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "Indian Institute of Technology - Madras"
+          url: "https://code.iitm.ac.in/integratedcircuits"
+        date: "2020 - 2023"
+        GPA: "7.85 out of 10.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          This is a 3 year Industrial M.Tech programme offered by [IIT-Madras](https://www.iitm.ac.in/). I completed the below as part of the course work.
+            - Implemented timing driven performance optimisation for an internal project : SoC Planning and Prototyping. This was my masters project.    
+            - Design and implementation of 
+              - 8*8 signed multiplier, schematic and layout as part of the course, Digital IC Design.
+              - 5GBps Clock and Data Recovery circuit as part of a course, VLSI and Broadband Communication Circuits.
+            - PPA \(Power Performance and Area\) optimsations.
+            - CNN, RNN, Autoencoders, GAN as part of Deeplearning for Imaging.
+            - Semiconductor Device Modeling. 
+      - title: "Bachelor of Engineering in Electronics and Communication"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "JSS Science and Technology University (Formely SJCE)"
+          url: "https://jssstuniv.in/"
+        date: "2015 - 2019"
+        GPA: "9.46 out of 10.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          This course was where I started my deep dive into the world of Electronics and Communication.
+          As part of the course, I did many projects like home automation, various types of robots like line followers and edge detectors, and wireless communication using various technologies like WIFI, BT, RF, and DTMF. 
+          There were 2 major projects which I did as part of my course work here.
+            - Device and method for analysis and detection of malocclusion. A patent application was filed before the Indian Patent Office for this project.
+            - Drowsiness detection using EEG waves. 
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - I was an active member of IEEE-SJCE, SJCE's largest technical club. 
+            - I served as the chairperson and the secretary of EDS, a sub branch of IEEE-SJCE and was reponsible for the course content and teaching in the below activities. The main focus of these workshops were to educate our juniors on the practical aspects of electronics.
+              - Vacation Project Mania : This was a 2 week workshop on the basics of analog electronics, microcontrollers, and embedded programming.
+              - Robotics : This was a 4 day workshop on microcontrollers and building basic robots.
+              - Soldering and Etching  : This was a 2 day workshop on solcering, PCB design, and etching
+            - I was also involved as a volunteer in the social activities of WIE, IEEE-SJCE. 
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
-      - title: "High School"
+      - title: "12th standard"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "Sadvidya Composite Pre University College, Mysuru."
+          # url: "https://example.org"
+        date: "2015"
+        GPA: "95.17% --> This is evaluated as a percentage and not GPA"
+        content:  |-
+          I scored 398/400 in the core subjects.
+            - Physics : 100/100
+            - Chemistry :100/100
+            - Mathematics : 98/100
+            - Electronics : 100/100
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
+      - title: "10th standard (SSLC)"
+        school:
+          name: "CFTRI High School, Mysuru."
+          # url: "https://example.org"
+        date: "2013"
+        GPA: "97.6% --> This is evaluated as a percentage and not GPA"
+        content:  |-
+          I scored 610/625
+          - Mathematics : 100/100
 
   # Achievements
   achievements:
