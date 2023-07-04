@@ -14,7 +14,7 @@ outputs:
 
 Paginate: 3
 enableRobotsTXT: true
-# disqusShortname: your-disqus-shortname
+disqusShortname: miru-disqus
 # googleAnalytics: G-MEASUREMENT_ID
 
 markup:
@@ -27,7 +27,7 @@ Menus:
     - identifier: blog
       name: Blog
       title: Blog posts
-      url: /blogs
+      url: /posts
       weight: 1
     - identifier: gallery
       name: Gallery
@@ -245,7 +245,7 @@ params:
           name: "Indian Institute of Technology - Madras"
           url: "https://code.iitm.ac.in/integratedcircuits"
         date: "2020 - 2023"
-        GPA: "7.85 out of 10.0"
+        GPA: "8.08 out of 10.0"
         content: |-
           This is a 3 year Industrial M.Tech programme offered by [IIT-Madras](https://www.iitm.ac.in/). I completed the below as part of the course work.
             - Implemented timing driven performance optimisation for an internal project : SoC Planning and Prototyping. This was my masters project.    
@@ -326,7 +326,7 @@ params:
 
   # projects
   projects:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
       - title: Hugo Profile
@@ -403,7 +403,7 @@ params:
 
   # List pages like blogs and posts
   listPages:
-    disableFeaturedImage: false
+    disableFeaturedImage: true
 
   # Single pages like blog and post
   singlePages:
