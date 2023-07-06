@@ -8,7 +8,7 @@ toc:
 
 ## Hello World
 
-Well, hello there. Thank you for taking the time to visit my website and reading my blog. So how did this all start for me? How and where did I get the idea of having my website and starting to write my Blogs on it? Also, what do I intend to do with this?
+Well, hello there. Thank you for taking the time to visit my website and read my blog. So how did this all start for me? How and where did I get the idea of having my website and starting to write my Blogs on it? Also, what do I intend to do with this?
 
 &nbsp;&nbsp;&nbsp;&nbsp;This is a small story, to be honest. I came across a section of a YouTube video by [Linus Tech Tips](https://www.youtube.com/@LinusTechTips) where Linus talks about the 3-2-1 strategy. The basic concept of the 3-2-1 backup strategy is that three copies are made of the data to be protected, the copies are stored on two different types of storage media and one copy of the data is sent off-site. Whatever data I had at the time, was 2 copies, one on my hard disk and the other on my personal computer. Now I wanted to make a third copy of this and started to explore places where I could back this up and the obvious solution was any cloud service provider. The two most popular ones were Onedrive and Googledrive and I ended up choosing the former as it was more cost-effective. 
 
