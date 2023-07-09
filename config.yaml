@@ -32,7 +32,7 @@ Menus:
     - identifier: gallery
       name: Gallery
       title: Blog posts
-      url: /gallery
+      url: /my-photos
       weight: 2
     #Dropdown menu
     # - identifier: dropdown
@@ -153,7 +153,7 @@ params:
     content: |-
       I work as a Customer Applications Engineer(CAE) at [Infineon Technologies](https://www.infineon.com/).  I have a background in Electronics, Communication and VLSI, and I have a strong interest in building applications and VLSI designs.
 
-      I am currently working on Infineon's [Wi-Fi Products](https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-wi-fi-plus-bluetooth-combos/) and specialise in supporting customers with their hardware, regulatory, and firmware issues. I do occasionally support customers on embedded systems too.
+      I am currently working on Infineon's [Wi-Fi Products](https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-wi-fi-plus-bluetooth-combos/) and specialize in supporting customers with their hardware, regulatory, and firmware issues. I do occasionally support customers on embedded systems too.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently as part of my job:"
@@ -171,7 +171,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Senior Applications Engineer"
-        company: "Infineon technologies"
+        company: "Infineon Technologies"
         companyUrl: "https://www.infineon.com/"
         date: "April 2022 - present"
         featuredLink:
@@ -184,7 +184,7 @@ params:
         content: |
           - I am responsible for helping customers get their wifi radios ready before they go into regulatory testing.
           - I also do schematic reviews and help customers with a few hardware queries.
-          - I am based out [Bengaluru,Karnataka, India](https://bengaluruurban.nic.in/en/).
+          - I am based out [Bengaluru, Karnataka, India](https://bengaluruurban.nic.in/en/).
 
       - job: "Applications Engineer"
         company: "Cypress Semiconductor"
@@ -198,22 +198,22 @@ params:
           enable: true
           content: Cypress Semiconductor was acquired by Infineon in April 2020.
         content: |
-          - I extensively worked on the company's embedded Wi-Fi portfolio and I worked on WICED and ModusToolBox when I was exposed to a few technologies like ThreadX, FreeRTOS, LwIP, NetX, Makefiles.
+          - I extensively worked on the company's embedded Wi-Fi portfolio and I worked on WICED and ModusToolBox when I was exposed to a few technologies like ThreadX, FreeRTOS, LwIP, NetX, and Makefiles.
           - I also worked on developing projects showcasing Infineon's products and developed a few Code Examples.
-          - I also worked on automating Infineon's regulatory flow which reduced the turn around time from a few weeks to a few hours. 
+          - I also worked on automating Infineon's regulatory flow which reduced the turnaround time from a few weeks to a few hours. 
 
-      - job: "Co-Op Bachelors"
+      - job: "Co-Op Bachelor"
         company: "Cypress Semiconductor"
         companyUrl: "https://www.infineon.com/"
         date: "Jan 2019 - May 2019"
         info:
           enable: true
-          content : Six month intership program
+          content : Six-month intership program
         featuredLink:
           enable: false
           url: "https://example.com"
         content: |
-          I learnt some basics about Bluetooth and I learnt a few Bluetooth protocols.
+          I learned some basics about Bluetooth and a few Bluetooth protocols.
 
       # - job: "UI/UX Designer"
       #   company: "Netflix"
@@ -247,8 +247,8 @@ params:
         date: "2020 - 2023"
         GPA: "8.08 out of 10.0"
         content: |-
-          This is a 3 year Industrial M.Tech programme offered by [IIT-Madras](https://www.iitm.ac.in/). I completed the below as part of the course work.
-            - Implemented timing driven performance optimisation for an internal project : SoC Planning and Prototyping. This was my masters project.    
+          This is a 3 year Industrial M.Tech program offered by [IIT-Madras](https://www.iitm.ac.in/). I completed the below as part of the coursework.
+            - Implemented timing-driven performance optimization for an internal project: SoC Planning and Prototyping. This was my master's project.    
             - Design and implementation of 
               - 8*8 signed multiplier, schematic and layout as part of the course, Digital IC Design.
               - 5GBps Clock and Data Recovery circuit as part of a course, VLSI and Broadband Communication Circuits.
@@ -257,23 +257,23 @@ params:
             - Semiconductor Device Modeling. 
       - title: "Bachelor of Engineering in Electronics and Communication"
         school:
-          name: "JSS Science and Technology University (Formely SJCE)"
+          name: "JSS Science and Technology University (Formerly SJCE)"
           url: "https://jssstuniv.in/"
         date: "2015 - 2019"
         GPA: "9.46 out of 10.0"
         content: |-
           This course was where I started my deep dive into the world of Electronics and Communication.
           As part of the course, I did many projects like home automation, various types of robots like line followers and edge detectors, and wireless communication using various technologies like WIFI, BT, RF, and DTMF. 
-          There were 2 major projects which I did as part of my course work here.
+          There were 2 major projects which I did as part of my coursework here.
             - Device and method for analysis and detection of malocclusion. A patent application was filed before the Indian Patent Office for this project.
             - Drowsiness detection using EEG waves. 
 
           Extracurricular Activities
             - I was an active member of IEEE-SJCE, SJCE's largest technical club. 
-            - I served as the chairperson and the secretary of EDS, a sub branch of IEEE-SJCE and was reponsible for the course content and teaching in the below activities. The main focus of these workshops were to educate our juniors on the practical aspects of electronics.
-              - Vacation Project Mania : This was a 2 week workshop on the basics of analog electronics, microcontrollers, and embedded programming.
-              - Robotics : This was a 4 day workshop on microcontrollers and building basic robots.
-              - Soldering and Etching  : This was a 2 day workshop on solcering, PCB design, and etching
+            - I served as the chairperson and the secretary of EDS, a sub-branch of IEEE-SJCE and was responsible for the course content and teaching in the below activities. The main focus of these workshops was to educate our juniors on the practical aspects of electronics.
+              - Vacation Project Mania: This was a 2-week workshop on the basics of analog electronics, microcontrollers, and embedded programming.
+              - Robotics: This was a 4-day workshop on microcontrollers and building basic robots.
+              - Soldering and Etching: This was a 2-day workshop on soldering, PCB design, and etching
             - I was also involved as a volunteer in the social activities of WIE, IEEE-SJCE. 
         featuredLink:
           enable: false
@@ -287,10 +287,10 @@ params:
         GPA: "95.17% --> This is evaluated as a percentage and not GPA"
         content:  |-
           I scored 398/400 in the core subjects.
-            - Physics : 100/100
-            - Chemistry :100/100
-            - Mathematics : 98/100
-            - Electronics : 100/100
+            - Physics: 100/100
+            - Chemistry:100/100
+            - Mathematics: 98/100
+            - Electronics: 100/100
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -302,7 +302,7 @@ params:
         GPA: "97.6% --> This is evaluated as a percentage and not GPA"
         content:  |-
           I scored 610/625
-          - Mathematics : 100/100
+          - Mathematics: 100/100
 
   # Achievements
   achievements:
@@ -310,10 +310,10 @@ params:
     # title: "Custom Name"
     items:
       - title: Spot Award
-        content: This was awarded to me by Infineon in recognition of the excellent work done in Wi-Fi regulatory, CLM automation, premium customer support across Wi-Fi embedded, firmware and hardware. 
+        content: This was awarded to me by Infineon in recognition of the excellent work done in Wi-Fi regulatory, CLM automation, and premium customer support across Wi-Fi embedded, firmware and hardware. 
         # url: https://example.com
       - title: iHack 2020
-        content: I was part of a team that won a third place in the blockchain track organised by Infineon as part of iHack 2020.
+        content: I was part of a team that won third place in the blockchain track organized by Infineon as part of iHack 2020.
       - title: Academic excellence awards
         content: I have been awarded many academic excellence awards for securing top ranks throughout my education.
         # url: "https://github.com/gurusabarish/hugo-profile"

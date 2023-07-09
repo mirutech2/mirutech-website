@@ -2,7 +2,7 @@
 title: "Hello World"
 date: 2023-07-04T13:21:10+05:30
 author: "Murali Ramu"
-draft: true
+draft: false
 toc:
 ---
 
