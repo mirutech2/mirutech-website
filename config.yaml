@@ -31,14 +31,15 @@ Menus:
       weight: 1
     - identifier: gallery
       name: Gallery
-      title: Blog posts
+      title: Photos
       url: /my-photos
       weight: 2
-    #Dropdown menu
-    # - identifier: dropdown
-    #   title: Example dropdown menu
-    #   name: Dropdown
-    #   weight: 3
+  # Dropdown menu:
+  #   - identifier: blog2
+  #     title: travel
+  #     name: travel2
+  #     url: /posts/travel/
+      weight: 3
     # - identifier: dropdown1
     #   title: example dropdown 1
     #   name: example 1
