@@ -1,7 +1,7 @@
 ---
 title: "Courses"
 date: 2023-07-09T16:08:01+05:30
-draft: true
+draft: false
 Author: "Murali Ramu"
 toc:
 ---
