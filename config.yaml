@@ -120,8 +120,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Murali Ramu."
-    subtitle: "I enjoy learning about new topics and exploring new locations. I also like writing a few verses in Kannada."
-    content: "I created this website to share my insights and experiences related to the above. Contact me at any time to discuss anything and everything in this world. Even if I don't know much about the subject, I'll still try to research it and contribute."
+    subtitle: "I enjoy learning about new topics, driving cars, and exploring new locations. I also write a few verses in Kannada once in a while."
+    content: "I created this website to share my insights and experiences related to the above. Contact me at any time to discuss anything and everything in this world. Even if I don't know much about the subject, I'll still put in my efforts to contribute."
     image: /images/PXL_20220808_070627452.jpg
     bottomImage:
       enable: true
