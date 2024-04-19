@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masters on MiruTech</title>
+    <link>http://localhost:1313/posts/masters/</link>
+    <description>Recent content in Masters on MiruTech</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jul 2023 16:08:01 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/masters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Courses</title>
+      <link>http://localhost:1313/posts/masters/courses/</link>
+      <pubDate>Sun, 09 Jul 2023 16:08:01 +0530</pubDate>
+      <guid>http://localhost:1313/posts/masters/courses/</guid>
+      <description>Background I always had the ambition of doing a master&amp;rsquo;s in the USA and getting into a job was never on my radar after completing my bachelor&amp;rsquo;s. But as life turned out, I got hired by Cypress on July 24th, 2018 and my plan of doing an MS in the US went down the drain. But I did want to get a master&amp;rsquo;s, but how and when wasn&amp;rsquo;t clear yet. After getting into my job, I got to know that Cypress assisted people who wanted to do a corporate M.</description>
+    </item>
+  </channel>
+</rss>

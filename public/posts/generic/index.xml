@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generic on MiruTech</title>
+    <link>http://localhost:1313/posts/generic/</link>
+    <description>Recent content in Generic on MiruTech</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jul 2023 17:45:17 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/generic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Podcast</title>
+      <link>http://localhost:1313/posts/generic/my-podcast/</link>
+      <pubDate>Thu, 06 Jul 2023 17:45:17 +0530</pubDate>
+      <guid>http://localhost:1313/posts/generic/my-podcast/</guid>
+      <description>Podcast Experience So I got asked by IEEE-SJCE to appear in their alumni podcast and damn was it a nice experience and an absolute honor.&#xA;Below is the YouTube Podcast link.&#xA;Let me know your comments and what you feel about it below.</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/generic/hello-world/</link>
+      <pubDate>Tue, 04 Jul 2023 13:21:10 +0530</pubDate>
+      <guid>http://localhost:1313/posts/generic/hello-world/</guid>
+      <description>Hello World Well, hello there. Thank you for taking the time to visit my website and read my blog. So how did this all start for me? How and where did I get the idea of having my website and starting to write my Blogs on it? Also, what do I intend to do with this?&#xA;This is a small story, to be honest. I came across a section of a YouTube video by Linus Tech Tips where Linus talks about the 3-2-1 strategy.</description>
+    </item>
+  </channel>
+</rss>
