@@ -4,7 +4,7 @@ date: 2023-07-09T12:54:06+05:30
 draft: false
 description: "My Gallery"
 layout: "gallery"
-images:
+galleryImages:
  - src: /gallery/Mysuru_palace.jpg
  - src: /gallery/prayagraj.jpg
  - src: /gallery/ooty.jpg
