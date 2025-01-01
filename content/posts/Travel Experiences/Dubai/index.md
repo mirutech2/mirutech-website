@@ -169,9 +169,9 @@ My parents always wanted to sit in a sports car and Ferrari World provided the b
 # Day 5
 A day where I completed another bucket list item of jumping off a plane. I had booked a skydive at the Palm. A plane takes us to 14,000 feet from where the tandem jump starts. Initially, there is a freefall of about 9000 feet which is covered in ~50 seconds. This means the freefall essentially happens at ~200kmph and this almost rivalled my previous day experience. [Here is the video](https://youtu.be/gaiwExsPJDg) and below are some photos.
 
-![skydive1](skydive1.jpg)
+![skydive1](skydive_a.jpg)
 
-![skydive2](skydive2.jpg)
+![skydive2](skydive_b.jpg)
 
 After lunch, it was time for the speedboat experience and for a guy who had just fallen off a plane and driven a car at 200kmph, no matter how fast the boat went, it felt like a stroll in the park. But never the less, it was a good experience and one can even think of renting a yacht.
 
