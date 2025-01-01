@@ -6,14 +6,28 @@
     <description>Recent content on MiruTech</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jan 2024 16:23:10 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 16:57:36 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dubai</title>
+      <link>http://localhost:1313/posts/travel-experiences/dubai/</link>
+      <pubDate>Wed, 01 Jan 2025 16:57:36 +0530</pubDate>
+      <guid>http://localhost:1313/posts/travel-experiences/dubai/</guid>
+      <description>It’s been a few months after a memorable trip to the financial capital of the UAE and I sit here recalling a trip that contained two of the best things I’ve experienced. I’ve summarized the trip, experiences, and a brief of the expenses incurred.&#xA;Plan I’ve wanted to travel to Dubai ever since a few of my friends travelled there when I was doing my 1st-year B.E. Sometime in May 2024, I realized that if I applied 3 days of leave during the last week of October, I would end up with 9 days of holidays and the same being the shoulder weeks of peak season in Dubai meant it was time the trip happened.</description>
+    </item>
     <item>
       <title>Karnataka Road Trip 1</title>
       <link>http://localhost:1313/posts/travel-experiences/karnataka-road-trip-1/</link>
       <pubDate>Tue, 16 Jan 2024 16:23:10 +0530</pubDate>
       <guid>http://localhost:1313/posts/travel-experiences/karnataka-road-trip-1/</guid>
       <description>Towards the end of December 2023, my parents and I took up this road trip in my Tata Altroz where we visited a few holy shrines and historical places across Karnataka. I’ve written about the trip below and all the expenses mentioned are in INR.&#xA;Plan The plan originated from my mother when I was doing my master’s when she wanted to visit Horanadu Sri Annapoorneshwari temple and the Sringeri Sharadamba temple after I completed my master&amp;rsquo;s.</description>
+    </item>
+    <item>
+      <title>Hosting on Github</title>
+      <link>http://localhost:1313/posts/tech/hosting-on-github/</link>
+      <pubDate>Sun, 08 Oct 2023 01:15:57 +0530</pubDate>
+      <guid>http://localhost:1313/posts/tech/hosting-on-github/</guid>
+      <description>This are the steps which I followed to bring up my website.&#xA;mirutech.dev One can get started by building their website on Hugo. From a Windows user perspective, all that needs to be done is download the binary from git and add the location to the environment variables of your systems. Then follow Hugo&amp;rsquo;s quick start guide. In the getting started guide hugo.toml is used, but based on the theme, that I was using, I changed it to config.</description>
     </item>
     <item>
       <title>ನಮ್ಮ ಕಾಶಿ ಯಾತ್ರೆ/ಪ್ರವಾಸದ ಸಂಕ್ಷೇಪ ಕಥನ</title>
